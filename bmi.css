@@ -1,0 +1,28 @@
+body {
+    background-color: #f0eeee;
+}
+.container {
+    background-color: #fffefe;
+    max-width: 250px;
+    margin: 100px auto;
+    padding: 50px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    text-align: center;
+}
+input {
+    width: 100%;
+}
+.container2 {
+    text-align: center;
+}
+button {
+    background-color: #007bff;
+    border-radius: 4px;
+    cursor: pointer;
+}
+#result {
+    margin-top: 20px;
+    font-weight: bold;
+}
